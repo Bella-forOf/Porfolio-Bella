@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7a02e74f.css",
+    "main.js": "./static/js/main.dd5a60cb.js",
+    "static/media/horizontal3.jpg": "./static/media/horizontal3.5fb506284bb6cd082dd5.jpg",
+    "static/media/tumbada3.jpg": "./static/media/tumbada3.7e4abbe3c8ce1592dc2b.jpg",
+    "static/media/horizontal1.jpg": "./static/media/horizontal1.6831c2436f8b9e369738.jpg",
+    "static/media/tumbada2.jpg": "./static/media/tumbada2.603806d1e3c4426c0a71.jpg",
+    "static/media/horizontal2.jpg": "./static/media/horizontal2.808fa94d8e94240d6bc0.jpg",
+    "static/media/tumbada1.jpg": "./static/media/tumbada1.77ca97fb380442d30692.jpg",
+    "static/media/CV_Bella_Garcia_Villegas_web_developer__.pdf": "./static/media/CV_Bella_Garcia_Villegas_web_developer__.fc6fec0b54991f33d891.pdf",
+    "static/media/vertical1.jpg": "./static/media/vertical1.c7e4e83cb42660fb4519.jpg",
+    "static/media/joya.jpg": "./static/media/joya.c73855febf047078cece.jpg",
+    "static/media/personal-projects.jpg": "./static/media/personal-projects.5120e9deee11d317b7db.jpg",
+    "static/media/dog.jpg": "./static/media/dog.9af212a92525934ad7a7.jpg",
+    "static/media/breaking.jpg": "./static/media/breaking.d35694aabc033c99f3aa.jpg",
+    "static/media/ahorcado.jpg": "./static/media/ahorcado.4832b7a9275569dd704d.jpg",
+    "static/media/rick.jpg": "./static/media/rick.fac6eeded7a461833992.jpg",
+    "static/media/leap.jpg": "./static/media/leap.d8ff8859fb43ead13eff.jpg",
+    "static/media/list-adalabers.jpg": "./static/media/list-adalabers.d12bd9929037ebd620f4.jpg",
+    "static/media/spotify.jpg": "./static/media/spotify.4f36949bcf27e994ee34.jpg",
+    "static/media/team-projects.jpg": "./static/media/team-projects.734d8f964d56edb90796.jpg",
+    "static/media/duquesas.jpg": "./static/media/duquesas.83c8a0651bcf85c4a4b5.jpg",
+    "static/media/event.jpg": "./static/media/event.18d0649fc26c76d858a0.jpg",
+    "static/media/vertical2.jpg": "./static/media/vertical2.723fd85d57901f7949b4.jpg",
+    "static/media/juego-tronos.jpg": "./static/media/juego-tronos.2e0452298a3369e7757c.jpg",
+    "static/media/vertical3.jpg": "./static/media/vertical3.87d109d9431e9866744f.jpg",
+    "static/media/linkedin.png": "./static/media/linkedin.12d07632ce5647a9eb2c.png",
+    "static/media/github.png": "./static/media/github.330b34cc6dbd78f12d56.png",
+    "static/media/email.png": "./static/media/email.edde96781f1253399d92.png",
+    "index.html": "./index.html",
+    "main.7a02e74f.css.map": "./static/css/main.7a02e74f.css.map",
+    "main.dd5a60cb.js.map": "./static/js/main.dd5a60cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a02e74f.css",
+    "static/js/main.dd5a60cb.js"
+  ]
+}
