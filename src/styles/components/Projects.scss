@@ -82,6 +82,7 @@
       width: 8.2rem;
       background-color: var(--light);
       border: none;
+      color: black;
       border-radius: 0.5rem;
       font-family: 'Neucha', serif;
       font-weight: bold;
@@ -99,7 +100,7 @@
       cursor: pointer;
       transform: scale(1.4);
       color: var(--light);
-      background-color: var(--darkBlue);
+      background-color: black;
     }
   }
 }

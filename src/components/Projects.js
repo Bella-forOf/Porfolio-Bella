@@ -9,7 +9,7 @@ import event from "../images/event.jpg";
 function Projects() {
   return (
     <section className="projects" id="projects-section">
-      <h3 className="projects__title">Works</h3>
+      <h3 className="projects__title">Proyectos</h3>
       
       
       <div className="containerArticle">
