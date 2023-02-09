@@ -1,7 +1,8 @@
-import gitHub from "../images/GitHub-Mark.png";
+
 import bella from "../images/bella.png";
-import email from "../images/email_icon.png";
-import linkedIn from "../images/linkedIn_icon.jpg";
+import linkedIn from "../images/linkedin.png";
+import gitHub from "../images/github.png";
+import email from "../images/email.png";
 
 function Cards() {
     return (
@@ -13,7 +14,7 @@ function Cards() {
                 <img img className="hoverZoomLink" src={bella} alt="foto de Bella" />
               </a> 
               <h1>
-                      Bella García
+                      Bella García Villegas
                     </h1>
           
               
@@ -29,7 +30,7 @@ function Cards() {
               <p>
               Destinada a reinventarme y descubir mi pasión por la programción. Este camino me permite dar lo mejor de mi sin ponerme limites. Siempre dispuesta a seguir ampliando conocimientos.
               </p>
-          <p>&lt;&gt;  "Primero resuelve el problema. Entonces, escribe el codigo"</p>
+          <p>&lt; &gt;  "Primero resuelve el problema. Entonces, escribe el codigo"</p>
           <p>John Johnson &lt;/ &gt;</p>
             </div>
           

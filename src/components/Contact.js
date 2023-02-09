@@ -1,6 +1,6 @@
-import linkedIn from "../images/linkedIn_icon.jpg";
-import gitHub from "../images/GitHub-Mark.png";
-import email from "../images/email_icon.png";
+import linkedIn from "../images/linkedin.png";
+import gitHub from "../images/github.png";
+import email from "../images/email.png";
 
 function Contact() {
   return (

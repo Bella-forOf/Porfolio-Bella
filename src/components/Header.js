@@ -10,18 +10,16 @@ function Header() {
         
         <nav className="headerr__nav">
         <Link className="headerr__nav--link" to="/">
-            Inicio ||
+            Inicio 
           </Link>
           <Link className="headerr__nav--link" to="/about">
-            Sobre mi  ||
+            Sobre mi  
           </Link>
          
           <Link className="headerr__nav--link" to="/Projects">
-            Proyectos ||
+            Proyectos 
           </Link>
-          <Link className="headerr__nav--link" to="/contact">
-            Contacto
-          </Link>
+          
          
         </nav>
         </section>

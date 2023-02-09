@@ -1,4 +1,4 @@
-import anime from "../images/mujer.jpg";
+
 import joya from "../images/joya.jpg";
 import dog from "../images/dog.jpg";
 import tronos from "../images/juego-tronos.jpg";
@@ -73,7 +73,7 @@ function ProjectsInd() {
           />
           <h4 className="projects__article--name">Breaking Bad</h4>
           <p className="projects__article--description">
-            Buscador de personajes de esta conocida serie, podras buscarlos por nombre y añadirlos a tu lista de favoritos.
+            Buscador de personajes, podras filtrar por nombre y añadirlos a tu lista de favoritos.
           </p>
          <p> Tecnologias aplicadas: || HTML-CSS - SASS || JavaScript || </p>
           <a href="https://bella-forof.github.io/Breaking_Bad_listado_personajes/">
@@ -125,7 +125,7 @@ function ProjectsInd() {
             src={event}
             alt="Imagen de ordenador y movil para version responsive"
           />
-          <h4 className="projects__article--name">Eficient Event</h4>
+          <h4 className="projects__article--name">Efficient Event</h4>
           <p className="projects__article--description">
           Proyecto personal donde estoy trabajando una web que ayude a organizar eventos. Esta web esta en desarroyo. 
           </p>

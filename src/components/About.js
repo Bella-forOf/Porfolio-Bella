@@ -1,4 +1,4 @@
-import bella from "../images/Bella2.jpg";
+import bella from "../images/bellagarcia.jpg";
 import cv from "../documents/CV_Bella_Garcia_Villegas_web_developer__.pdf";
 
 function About() {
