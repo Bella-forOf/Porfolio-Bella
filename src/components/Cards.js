@@ -28,9 +28,9 @@ function Cards() {
             <div className="profile-bio">
           
               <p>
-              Destinada a reinventarme y descubir mi pasión por la programción. Este camino me permite dar lo mejor de mi sin ponerme limites. Siempre dispuesta a seguir ampliando conocimientos.
+              Destinada a reinventarme y descubir mi pasión por la programción. Este camino me permite dar lo mejor de mí sin ponerme limites. Siempre dispuesta a seguir ampliando conocimientos.
               </p>
-          <p>&lt; &gt;  "Primero resuelve el problema. Entonces, escribe el codigo"</p>
+          <p>&lt; &gt;  "Primero resuelve el problema. Entonces, escribe el código"</p>
           <p>John Johnson &lt;/ &gt;</p>
             </div>
           

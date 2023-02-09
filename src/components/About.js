@@ -8,7 +8,7 @@ function About() {
       <article className="aboutSection__article">
         <h3 className="aboutSection__article--title">Sobre mi</h3>
         <p className="aboutSection__article--text">
-        Muy proactiva y siempre en constante evolución. Durante 3 años trabaje de freelance en la creación y mantenimiento de una web, después de aquello no podía dejar de aprender y ampliar conocimientos. Me considero una persona extrovertida, resolutiva y muy organizada. Me gusta el trato con las personas, tengo buena gestión del tiempo y capacidad de liderazgo.        </p>
+        Muy proactiva y siempre en constante evolución. Durante 3 años trabajé de freelance en la creación y mantenimiento de una web, después de aquello no podía dejar de aprender y ampliar conocimientos. Me considero una persona extrovertida, resolutiva y muy organizada. Me gusta el trato con las personas, tengo buena gestión del tiempo y capacidad de liderazgo.        </p>
         
        
         <a href={cv} download="CV_Bella_Garcia_Villegas_web_developer__.pdf">

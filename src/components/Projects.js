@@ -57,7 +57,7 @@ function Projects() {
           <p className="projects__article--description">
 Juego donde eliges con que equipo vas a combatir y al alzar se erigirá el contrincante.
           </p>
-         <p> Tecnologias aplicadas: || HTML-CSS - SASS || JavaScript || </p>
+         <p> Tecnologías aplicadas: || HTML-CSS - SASS || JavaScript || </p>
           <a href="https://bella-forof.github.io/Juego-fuerzas-JuegoDeTronos/">
             <button className="projects__article--button">Demo</button>
           </a>
@@ -75,7 +75,7 @@ Juego donde eliges con que equipo vas a combatir y al alzar se erigirá el contr
           <p className="projects__article--description">
             Buscador de personajes, podras buscarlos por nombre y añadirlos a tu lista de favoritos.
           </p>
-         <p> Tecnologias aplicadas: || HTML-CSS - SASS || JavaScript || </p>
+         <p> Tecnologías aplicadas: || HTML-CSS - SASS || JavaScript || </p>
           <a href="https://bella-forof.github.io/Breaking_Bad_listado_personajes/">
             <button className="projects__article--button">Demo</button>
           </a>
@@ -93,7 +93,7 @@ Juego donde eliges con que equipo vas a combatir y al alzar se erigirá el contr
           <p className="projects__article--description">
             Buscador de personajes, por nombre, especie y género. Y detalle de cada personaje
           </p>
-         <p> Tecnologias aplicadas: || HTML-CSS - SASS || JavaScript - React || </p>
+         <p> Tecnologías aplicadas: || HTML-CSS - SASS || JavaScript - React || </p>
           <a href="https://bella-forof.github.io/Rick-and-morty-buscador/">
             <button className="projects__article--button">Demo</button>
           </a>
@@ -111,7 +111,7 @@ Juego donde eliges con que equipo vas a combatir y al alzar se erigirá el contr
           <p className="projects__article--description">
           Web con opción de mostrar el listado de alumnas y añadir nuevas.
           </p>
-         <p> Tecnologias aplicadas: || HTML-CSS - SASS || JavaScript - React || </p>
+         <p> Tecnologías aplicadas: || HTML-CSS - SASS || JavaScript - React || </p>
           <a href="https://bella-forof.github.io/Listado_Alumnas/">
             <button className="projects__article--button">Demo</button>
           </a>
@@ -127,7 +127,7 @@ Juego donde eliges con que equipo vas a combatir y al alzar se erigirá el contr
           />
           <h4 className="projects__article--name">Efficient Event</h4>
           <p className="projects__article--description">
-          Proyecto personal donde estoy trabajando una web que ayude a organizar eventos. Esta web esta en desarroyo. 
+          Proyecto personal donde estoy creando una web que ayude a organizar eventos. Esta web esta en desarroyo. 
           </p>
          <p> Tecnologias aplicadas: || HTML-CSS - SASS || JavaScript - React || </p>
         
