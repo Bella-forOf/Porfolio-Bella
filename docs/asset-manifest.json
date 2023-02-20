@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.437ab509.css",
+    "main.js": "./static/js/main.5d8ac3a3.js",
+    "static/media/bella.png": "./static/media/bella.945b56c4872acf07a4ed.png",
+    "static/media/fondo2.jpg": "./static/media/fondo2.2920cf48df567ad9968c.jpg",
+    "static/media/CV-Bella-Garcia-Web-Developer.pdf": "./static/media/CV-Bella-Garcia-Web-Developer.8772278998e317e4d551.pdf",
+    "static/media/bellagarcia.jpg": "./static/media/bellagarcia.af30e7f1d3f4f7ecedd3.jpg",
+    "static/media/joya.jpg": "./static/media/joya.c73855febf047078cece.jpg",
+    "static/media/dog.jpg": "./static/media/dog.9af212a92525934ad7a7.jpg",
+    "static/media/breaking.jpg": "./static/media/breaking.d35694aabc033c99f3aa.jpg",
+    "static/media/ahorcado.jpg": "./static/media/ahorcado.4832b7a9275569dd704d.jpg",
+    "static/media/rick.jpg": "./static/media/rick.fac6eeded7a461833992.jpg",
+    "static/media/leap.jpg": "./static/media/leap.d8ff8859fb43ead13eff.jpg",
+    "static/media/list-adalabers.jpg": "./static/media/list-adalabers.d12bd9929037ebd620f4.jpg",
+    "static/media/spotify.jpg": "./static/media/spotify.4f36949bcf27e994ee34.jpg",
+    "static/media/duquesas.jpg": "./static/media/duquesas.83c8a0651bcf85c4a4b5.jpg",
+    "static/media/event.jpg": "./static/media/event.18d0649fc26c76d858a0.jpg",
+    "static/media/juego-tronos.jpg": "./static/media/juego-tronos.2e0452298a3369e7757c.jpg",
+    "static/media/fondo.jpg": "./static/media/fondo.5ad90b4937fbfbe7411e.jpg",
+    "static/media/linkedin.png": "./static/media/linkedin.12d07632ce5647a9eb2c.png",
+    "static/media/github.png": "./static/media/github.330b34cc6dbd78f12d56.png",
+    "static/media/email.png": "./static/media/email.edde96781f1253399d92.png",
+    "index.html": "./index.html",
+    "main.437ab509.css.map": "./static/css/main.437ab509.css.map",
+    "main.5d8ac3a3.js.map": "./static/js/main.5d8ac3a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.437ab509.css",
+    "static/js/main.5d8ac3a3.js"
+  ]
+}
